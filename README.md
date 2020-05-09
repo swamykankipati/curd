@@ -1,4 +1,4 @@
-# Django 2 - CRUD Example 
+# Django - CRUD Operations
 
 ## Requirements
 ```
